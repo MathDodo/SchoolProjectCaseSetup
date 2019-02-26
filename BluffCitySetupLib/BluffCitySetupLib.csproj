@@ -49,6 +49,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AirlineCompany.cs" />
+    <Compile Include="AirportInformationCenter.cs" />
     <Compile Include="Data\AirlineCompanyData.cs" />
     <Compile Include="Data\AirportInfoCenterRequest.cs" />
     <Compile Include="Data\AirportInformationCenterData.cs" />
