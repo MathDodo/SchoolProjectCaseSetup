@@ -10,6 +10,16 @@ namespace Setup
 
         public string CompanyName { get; private set; }
 
+        public int Count { get { return _flightsInformation.Count; } }
+
+        public AirlineCompanyData this[int index]
+        {
+            get
+            {
+                return _flightsInformation[index];
+            }
+        }
+
         public AirlineCompany(string name)
         {
             CompanyName = name;

@@ -51,7 +51,6 @@
     <Compile Include="AirlineCompany.cs" />
     <Compile Include="AirportInformationCenter.cs" />
     <Compile Include="Data\AirlineCompanyData.cs" />
-    <Compile Include="Data\AirportInfoCenterRequest.cs" />
     <Compile Include="Data\AirportInformationCenterData.cs" />
     <Compile Include="Data\AirTrafficControlCenterData.cs" />
     <Compile Include="Data\CheckInStatus.cs" />
